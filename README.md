@@ -1,9 +1,9 @@
 # Weather-Journal App Project
 
-##Technology
+## Technology
 HTML, CSS, Javascript
 
-##How to use
+## How to use
 1.Install Node.js and install express, body-parser and cors in your terminal. 
 2.Set up project environment and enter the command line "node server.js" in your terminal to start the server.
 
