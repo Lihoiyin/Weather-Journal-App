@@ -9,7 +9,7 @@ HTML, CSS, Javascript
 2.Set up project environment and enter the command line "node server.js" in your terminal to start the server.
 
 ## Project Information
-To Use asynchronous programming and express.js making a one page Web API connected with OpenWeather API that can ynamically update the UI with the user data. 
+To Use asynchronous programming and express.js making a one page Web API connected with OpenWeather API that can dynamically update the UI with the user data. 
 
 ## Development Strategy (Udacity)
 1.Start by setting up your project environment. Make sure Node is installed from the terminal. Install the packages Express, Body-Parser, and Cors from the terminal and them include them your server.js file.<br>
